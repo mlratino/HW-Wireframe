@@ -1,0 +1,19 @@
+{
+  "name": "hw-wireframe",
+  "version": "1.0.0",
+  "description": "<img src=Capture.PNG>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlratino/HW-Wireframe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlratino/HW-Wireframe/issues"
+  },
+  "homepage": "https://github.com/mlratino/HW-Wireframe#readme"
+}
