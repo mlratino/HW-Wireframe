@@ -1,11 +1,18 @@
 # HW-Wireframe
+<img src=Capture.PNG>
+
+
+
+
+
+
 ## Easier Assignment - Building a Wireframe-10-6
 
 ### Overview
 
 In this assignment, you will build a web design skeleton using HTML/CSS. Your completed work should look just like the image below:
 
-![Final Layout](Images/Easier-Layout.png)
+![Final Layout](<img src=template.PNG>)
 
 ### Student Notes
 
