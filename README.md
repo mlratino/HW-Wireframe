@@ -12,7 +12,7 @@
 
 In this assignment, you will build a web design skeleton using HTML/CSS. Your completed work should look just like the image below:
 
-![Final Layout](<img src=template.PNG>)
+<img src=template.PNG>
 
 ### Student Notes
 
